@@ -1,0 +1,4 @@
+express 
+mysql 
+dotenv 
+body-parser
